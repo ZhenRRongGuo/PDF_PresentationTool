@@ -9,7 +9,8 @@
 > ！本项目重度依赖AI进行开发，虽然本人使用暂未发现问题，但请自行评估风险。
 > * [pympress](https://github.com/Cimbali/pympress) 是一个功能强大全面的开源 PDF 放映工具, 但我在实际使用过程中会出现频繁卡顿的效果
 > * [dspdfviewer](https://github.com/projekter/dspdfviewer) 能够流畅放映，但不支持激光笔等功能
-> * [PDF-Presentation-Tool](https://github.com/DamianoP/PDF_Presentation_Tool) 既能够流畅放映，又支持激光笔等功能，但需要安装 Node.js, 且首次首次使用必须联网, 使用不方便
+> * [PDF-Presentation-Tool](https://github.com/DamianoP/PDF_Presentation_Tool) 既能够流畅放映，又支持激光笔等功能, 但需要安装 Node.js, 且首次首次使用必须联网, 使用不方便
+> 
 > 基于以上原因，我决定二次开发一个便携版，以方便在演讲时使用, 主要功能如下
 
 
