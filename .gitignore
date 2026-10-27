@@ -4,6 +4,10 @@
 # Keep .gitignore itself in the repository
 !/.gitignore
 
+# Allow README files
+!/README.md
+!/README.zh-CN.md
+
 # Allow the required project directories
 !/data/
 !/electron/
