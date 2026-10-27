@@ -21,7 +21,7 @@ This project is intended for presentation scenarios involving a "laptop main scr
 - Automatic detection of Beamer dual-width PDFs; please use the command `\setbeameroption{show notes on second screen=right}` in Beamer
 - Presenter notes preview: displays the current page, the next page, and notes (Notes)
 - Laser pointer, spotlight, whiteboard annotation, and eraser
-- Black screen, timer, break countdown, and screen recording
+- Black screen, timer, break countdown
 [The following are new features after the secondary development]
 - Both the current page and the presentation window support PDF internal link jumps
 - The layout of the current page, next page, thumbnails, and notes panel can be adjusted
