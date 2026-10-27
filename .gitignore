@@ -1,0 +1,25 @@
+# Ignore everything in the project root by default
+/*
+
+# Keep .gitignore itself in the repository
+!/.gitignore
+
+# Allow the required project directories
+!/data/
+!/electron/
+!/scripts/
+!/Doc/
+
+# Allow the required root-level files
+!/server.js
+!/package.json
+!/package-lock.json
+!/vite.config.js
+
+# Exclude local secrets and unnecessary files inside allowed directories
+**/.env
+**/.env.*
+**/*.log
+**/.DS_Store
+**/Thumbs.db
+**/desktop.ini
