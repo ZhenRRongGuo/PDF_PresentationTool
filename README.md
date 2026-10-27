@@ -22,7 +22,8 @@ This project is intended for presentation scenarios involving a "laptop main scr
 - Presenter notes preview: displays the current page, the next page, and notes (Notes)
 - Laser pointer, spotlight, whiteboard annotation, and eraser
 - Black screen, timer, break countdown
-[The following are new features after the secondary development]
+
+**The following are new features after the secondary development:**
 - Both the current page and the presentation window support PDF internal link jumps
 - The layout of the current page, next page, thumbnails, and notes panel can be adjusted
 - Fully offline operation; PDF.js and Worker use local files
