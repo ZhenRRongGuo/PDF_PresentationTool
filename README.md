@@ -10,6 +10,7 @@ This project is intended for presentation scenarios involving a "laptop main scr
 > * [pympress](https://github.com/Cimbali/pympress) is a powerful and comprehensive open-source PDF presentation tool, but in my actual use it frequently stuttered.
 > * [dspdfviewer](https://github.com/projekter/dspdfviewer) can present smoothly, but does not support features such as a laser pointer.
 > * [PDF-Presentation-Tool](https://github.com/DamianoP/PDF_Presentation_Tool) can present smoothly and supports features such as a laser pointer, but it requires Node.js to be installed, and it must be connected to the Internet the first time it is used, making it inconvenient to use.
+> 
 > For the above reasons, I decided to develop a portable version as a secondary development to make it convenient to use during presentations. The main features are as follows.
 
 
