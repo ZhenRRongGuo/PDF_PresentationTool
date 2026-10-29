@@ -13,6 +13,8 @@ This project is intended for presentation scenarios involving a "laptop main scr
 > 
 > For the above reasons, I decided to develop a portable version as a secondary development to make it convenient to use during presentations. The main features are as follows.
 
+## UI display
+![UI display](./Doc/assets/display.png)
 
 ## Main Features
 
