@@ -7,6 +7,7 @@
 # Allow README files
 !/README.md
 !/README.zh-CN.md
+!/LICENSE
 
 # Allow the required project directories
 !/data/
